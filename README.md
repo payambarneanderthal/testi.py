@@ -5,7 +5,7 @@
 # creator asasin
 
 # codes sms_with_threading_mahan.py 
-pip3 install requests
+pip2 install requests
 
 git clone https://github.com/payambarneanderthal/testi.py.git
 
@@ -15,11 +15,11 @@ cd sms_with_threading_mahan.py
 
 ls
 
-python3 sms_with_threading_mahan.py 
+python2 sms_with_threading_mahan.py 
 
 # codea sms_with_while_mahan.py 
 
-pip3 install requests 
+pip2 install requests 
 
 git clone https://github.com/payambarneanderthal/testi.py.git
 
@@ -27,6 +27,6 @@ ls
 
 cd sms_with_while_mahan.py
 
-python3 sms_with_while_mahan.py
+python2 sms_with_while_mahan.py
 
 # bye...
