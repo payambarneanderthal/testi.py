@@ -15,7 +15,7 @@ ______________________________________________________
 
 print(banner)
 
-_phone = input('Hello! Number for attack (79xxxxxxxxx)-->> ')
+_phone = input('Hello! Number for attack (98xxxxxxxxx)-->> ')
 
 if _phone[0] == '+':
 
